@@ -1,4 +1,7 @@
-👋 Olá, sou @nicoly2407
+👋 Olá, meu nome é Nicoly
+
+- Seja bem vindo ao meu perfil
+- Estou aprendendo a desenvolver projetos na pataforma alura
 
 
 
